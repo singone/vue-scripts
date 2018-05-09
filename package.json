@@ -1,0 +1,25 @@
+{
+  "name": "vue-scripts",
+  "version": "1.0.0",
+  "description": "vue 相关命令行",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singone/vue-scripts.git"
+  },
+  "keywords": [
+    "vue",
+    "webpack",
+    "webpack4",
+    "html"
+  ],
+  "author": "singone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singone/vue-scripts/issues"
+  },
+  "homepage": "https://github.com/singone/vue-scripts#readme"
+}
